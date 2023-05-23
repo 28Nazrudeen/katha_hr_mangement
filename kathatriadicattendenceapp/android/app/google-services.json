@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "66500018347",
+    "project_id": "kathatriadicpvtltd",
+    "storage_bucket": "kathatriadicpvtltd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66500018347:android:d4bfab36b40050e37237ee",
+        "android_client_info": {
+          "package_name": "com.example.kathatriadicattendenceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66500018347-5uais07tvb7eki75p9v89rboot56ld37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc1uKznrXFjGA0YVUayELdpbSjJ1Cork0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66500018347-5uais07tvb7eki75p9v89rboot56ld37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
